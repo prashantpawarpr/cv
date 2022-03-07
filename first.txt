@@ -1,3 +1,6 @@
 This file txt file i have ever created in linus and pushed to github
 change
 thanks
+
+
+Which of the following is true regarding the "git log" output(when code was pulled after creating the README file via Gitlab)? *
